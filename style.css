@@ -1,0 +1,36 @@
+#map {
+  position: relative;
+  border: 1px solid black;
+  border-radius: 2px;
+  height: 856px;  
+  width: 100%; 
+}
+
+@media (max-width: 600px){
+  #map {
+    height: 600px; 
+  }
+}
+
+.card {
+  margin-right: 20px;
+}
+
+@media (max-width: 500px){
+  .card {
+    margin-right: 3px;
+    margin-left: 3px; 
+  }
+}
+
+
+.bg-bluedark
+{
+  background-color: #142931;
+}
+
+.bg-blue
+{
+  background-color: #076589;
+}
+
