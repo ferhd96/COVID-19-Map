@@ -1,5 +1,5 @@
 # COVID-19 World Map
-Cartographic viewer of world with the cases of daily positives of COVID-19 by countries, is incluid a dasboard.<br/>
+Cartographic viewer of world with the cases of daily positives of COVID-19 by countries, incluid a dasboard with some relevant data.<br/>
 All the date are taken via API<br/>
 ###### Technology used:
 - JavaScript
